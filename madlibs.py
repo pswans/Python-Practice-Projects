@@ -2,6 +2,7 @@
 #noun2 = input("Enter another animal:")
 #noun3 = input("Enter an object:")
 #print("The " + noun + " and the " + noun2 + " went to find the " + noun3)
+#Use this as a template.
 
 pnoun = input('Choose a plural noun:')
 fic = input('Choose a fictional character:')
